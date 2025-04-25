@@ -1,71 +1,79 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color:#4CAF50;">Hi 👋, Hey! Nice to see you. I'm <span style="color:#00bfff;">M. Muhammad Mudasar Sabir</span>.</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color:#FF6347;">A passionate about <span style="color:#8A2BE2;">Machine Learning (ML)</span> | <span style="color:#FF4500;">Deep Learning (DL)</span> | <span style="color:#4682B4;">Computer Vision</span> | <span style="color:#32CD32;">Generative AI</span>.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudasarsabir&label=Profile%20views&color=0e75b6&style=flat" alt="mudasarsabir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudasarsabir" alt="mudasarsabir" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mudasarsabir" target="blank"><img src="https://img.shields.io/twitter/follow/mudasarsabir?logo=twitter&style=for-the-badge" alt="mudasarsabir" /></a> </p>
-
-### 🌱 I'm currently learning:
-- 🤖 **Machine Learning (ML)**
-- 🧠 **Deep Learning (DL)**
-- 👁️ **Computer Vision**
-- 🧬 **Generative AI**
-
----
-
-### 🚀 **My Projects & Blog:**
-- 🔗 **[Portfolio](https://muddasarsabir.netlify.app/)**: Check out my projects.
-- ✍️ **[Blog](https://muddasarsabir.netlify.app/)**: I regularly write articles.
-- 📄 **[Resume](https://muddasarsabir.netlify.app/)**: Know more about my experiences.
-
----
-
-### 📫 **How to reach me:**
-- 📧 **Email**: [mudasarsabir@gmail.com](mailto:mudasarsabir@gmail.com)
-
----
-
-### ✨ **Connect with me:**
-<p align="left">
-<a href="https://dev.to/muddasarsabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mudasarsabir" height="30" width="40" /></a>
-<a href="https://twitter.com/mudasarsabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mudasarsabir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muddasarsabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasarsabir" height="30" width="40" /></a>
-<a href="https://fb.com/m.muddasarsabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.muddasarsabir" height="30" width="40" /></a>
-<a href="https://medium.com/@mudasarsabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mudasarsabir" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ **Languages & Tools:**
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" />
-</p>
-
----
-
-### 📊 **GitHub Stats:**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mudasarsabir&show_icons=true&locale=en&layout=compact" alt="mudasarsabir" />
-</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#1DA1F2;">M. Muhammad Mudasar Sabir</span></h1>
+<h3 align="center">🚀 Passionate about ML | DL | Computer Vision | Generative AI</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudasarsabir&show_icons=true&locale=en" alt="mudasarsabir" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudasarsabir" alt="mudasarsabir" />
+  <img src="https://komarev.com/ghpvc/?username=mudasarsabir&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://twitter.com/mudasarsabir" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mudasarsabir?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
 </p>
 
 ---
 
+## 🧠 About Me
+
+- 🔭 Currently exploring **Machine Learning (ML)**, **Deep Learning (DL)**, **Computer Vision**, and **Generative AI**
+- 💼 Portfolio: [muddasarsabir.netlify.app](https://muddasarsabir.netlify.app/)
+- ✍️ I write blogs on [my website](https://muddasarsabir.netlify.app/)
+- 📫 Reach me at: **mudasarsabir@gmail.com**
+
+---
+
+## 📚 Stylish Table of Contents
+
+- 🎯 [Titanic Logistic Regression Project](#-titanic-logistic-regression-project)
+- 📈 [Exploratory Data Analysis](#-exploratory-data-analysis)
+- 🔧 [Feature Engineering](#-feature-engineering)
+- 🧪 [Model Building](#-model-building)
+- 📊 [Model Evaluation](#-model-evaluation)
+- 🧾 [Submission File Creation](#-submission-file-creation)
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <b>Thanks for visiting! 🚀</b>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mudasarsabir&theme=onedark&row=2&column=3" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://dev.to/muddasarsabir"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://twitter.com/mudasarsabir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muddasarsabir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/m.muddasarsabir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://medium.com/@mudasarsabir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <!-- Only show key icons for better aesthetics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudasarsabir&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mudasarsabir&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasarsabir&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
