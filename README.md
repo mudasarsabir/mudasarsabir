@@ -19,17 +19,6 @@
 
 ---
 
-## 📚 Stylish Table of Contents
-
-- 🎯 [Titanic Logistic Regression Project](#-titanic-logistic-regression-project)
-- 📈 [Exploratory Data Analysis](#-exploratory-data-analysis)
-- 🔧 [Feature Engineering](#-feature-engineering)
-- 🧪 [Model Building](#-model-building)
-- 📊 [Model Evaluation](#-model-evaluation)
-- 🧾 [Submission File Creation](#-submission-file-creation)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
