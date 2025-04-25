@@ -75,5 +75,5 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mudasarsabir&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudasarsabir&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasarsabir&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
