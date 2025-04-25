@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudasarsabir&show_icons=true&locale=en" alt="mudasarsabir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudasarsabir&" alt="mudasarsabir" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudasarsabir&layout=compact&theme=radical" alt="Top Languages"/></p>
